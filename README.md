@@ -13,7 +13,7 @@ And Write it to the Insecure/vulnerable firebase databases.
 
 ![Usage POC Image](/Write-Exploit.png)
 
-**python Firebase-Write-Permission-Exploit.py**
+**python fireforce.py**
 
 ```
 Enter Firebase Databse Name: <Database Name Here>
